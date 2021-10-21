@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'miSegundaApp';
+  
+  saludo="Hola Pucha. ¿vamos de paseo?"
 }
